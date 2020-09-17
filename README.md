@@ -2,4 +2,5 @@
 Frontend y Backend de un pequeño sistema de venta
 
 # Nota
-Para instalar los modulos de Node utilice el siguiente comando npm install
+Para instalar los modulos de Node utilice el siguiente comando 
+npm install
